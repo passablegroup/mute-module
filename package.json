@@ -1,0 +1,9 @@
+{
+  "name": "mute-module",
+  "version": "1.0.0",
+  "description": "I do nothing, use me in overrides.",
+  "author": "passablegroup",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "type": "commonjs"
+}
